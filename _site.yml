@@ -1,0 +1,16 @@
+name: "Roseamilda Mansor"
+output_dir: "-"
+navbar:
+    title: "My website"
+left:
+    - text: "home"
+      href: index.html
+        
+right:
+    - icon: fa-envelope fa-lg
+      href: contract.html
+        
+output:
+  html_document:
+    theme: paper
+    css: 'styles.css'

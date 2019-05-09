@@ -1,0 +1,16 @@
+---
+title: ""
+---
+  
+<link rel="stylesheet" href="styles.css" type="text/css">
+  
+  
+<img src="image/profile1.jpeg" syles="width:20%, border: 10px solid"
+
+**Roseamilda Mansor**
+**Lecturer**
+**Faculty of Business Management**
+**UiTM Kedah Branch Campus**
+---
+  
+**BACKGROUND**
